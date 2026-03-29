@@ -27,7 +27,7 @@ export default function EmployerHeader() {
             <Link to="/" className="text-2xl font-bold flex items-center">
               <span className="text-brand-teal">embrace</span>
               <span className="text-brand-orange">health</span>
-              <span className="text-gray-600">.ai</span>
+              <span className="text-gray-300 font-light">.ai</span>
             </Link>
           </div>
 

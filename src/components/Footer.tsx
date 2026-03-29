@@ -11,7 +11,7 @@ export default function Footer() {
             <Link to="/" className="text-2xl font-bold flex items-center">
               <span className="text-brand-teal">embrace</span>
               <span className="text-brand-orange">health</span>
-              <span className="text-gray-400">.ai</span>
+              <span className="text-gray-500 font-light">.ai</span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
               The connected platform for population health. We combine clinical excellence with human-centric design to drive healthier participation across your organization.
