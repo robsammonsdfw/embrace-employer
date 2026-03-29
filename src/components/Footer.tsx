@@ -81,7 +81,7 @@ export default function Footer() {
               LegitScript Certified: This application meets the standards for healthcare services and telehealth.
             </div>
             <img 
-              src="/legitscript-certified.png" 
+              src="/44740977.png" 
               alt="LegitScript Certified" 
               className="h-10 w-auto"
               referrerPolicy="no-referrer"
