@@ -8,9 +8,10 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           {/* Brand Column */}
           <div className="space-y-6">
-            <Link to="/" className="text-2xl font-bold flex items-center gap-1">
+            <Link to="/" className="text-2xl font-bold flex items-center">
               <span className="text-brand-teal">embrace</span>
-              <span>health.ai</span>
+              <span className="text-brand-orange">health</span>
+              <span className="text-gray-400">.ai</span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
               The connected platform for population health. We combine clinical excellence with human-centric design to drive healthier participation across your organization.
