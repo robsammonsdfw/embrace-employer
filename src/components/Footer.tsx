@@ -80,9 +80,12 @@ export default function Footer() {
             <div className="text-[10px] text-gray-400 max-w-[200px] leading-tight">
               LegitScript Certified: This application meets the standards for healthcare services and telehealth.
             </div>
-            <div className="w-8 h-8 bg-white/10 rounded flex items-center justify-center font-bold text-[8px] text-brand-teal">
-              LS
-            </div>
+            <img 
+              src="/legitscript-certified.png" 
+              alt="LegitScript Certified" 
+              className="h-10 w-auto"
+              referrerPolicy="no-referrer"
+            />
           </div>
         </div>
       </div>
